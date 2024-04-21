@@ -1,6 +1,6 @@
 # lesson 7 task 3 JS
 
-
+Wykorzystaj kod z poprzedniego zadania i dodaj do niego obsługę wyjątków. W sytuacji kiedy użytkownik przekaże niepoprawne dane i serwer odmówi wykonania polecania, dodaj do widoku label (przypisany do inputa), w którym wyświetlisz napis “Request error”. Dodaj do labela atrybut data-test=”todo-input-label”.
 
 ## Getting started
 
